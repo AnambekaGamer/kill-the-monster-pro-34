@@ -1,2 +1,2 @@
-# kill-the-monster-pro-34
-game
+# kill-the-monster-game
+kill-the-monster-game
